@@ -1,0 +1,28 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex a26cf4c..2a6c3bf 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,21 +1 @@[m
+[31m-# BlinkIt-Clone-Full-Stack-Ecommerce[m
+[31m-BlinkIt-Clone-Full-Stack-Ecommerce[m
+[31m-[m
+[31m-![Alt text](Thumnails.png?raw=true "Title")[m
+[31m-[m
+[31m-Build a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, we will create an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.[m
+[31m-[m
+[31m-# Demo [m
+[31m-![Alt text](Demo%201.gif?raw=true "demo1")[m
+[31m-![Alt text](Demo%202.gif?raw=true "demo2")[m
+[31m-[m
+[31m-# Assets File[m
+[31m-Google Drive : https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing[m
+[31m-[m
+[31m- <a href="https://www.linkedin.com/in/itsamitprajapati" target="_blank">[m
+[31m-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit prajapati"/>[m
+[31m- </a>[m
+[31m-[m
+[31m- Youtube : Dynamic Coding with Amit[m
+[31m-[m
+[31m- [m
+[32m+[m[32m# Binkeyit Full Stack MERN App[m
+\ No newline at end of file[m
